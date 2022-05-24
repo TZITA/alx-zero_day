@@ -1,1 +1,5 @@
-#!/bin/bash ALX School is so cool!
+<<<<<<< HEAD
+#!/bin/bash ALX The school is open!
+=======
+#!/bin/bash ALX The school is open!
+>>>>>>> update_script
